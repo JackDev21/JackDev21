@@ -66,7 +66,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.JackDeve21.vercel.app/api/top-langs/?username=JackDev21t&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.JackDev21.vercel.app/api/top-langs/?username=JackDev21t&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
