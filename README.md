@@ -66,7 +66,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.JackDev21.vercel.app/api/top-langs/?username=JackDev21&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
   
   </td>
 </tr>
