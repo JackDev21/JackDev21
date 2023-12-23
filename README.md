@@ -60,6 +60,8 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JackDev21&theme=shadow-orange&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </td>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <td width="50%" align="center">
