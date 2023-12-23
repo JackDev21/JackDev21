@@ -12,8 +12,8 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg](https://github.com/JackDev21/mandev-retos/blob/main/Reto_Basic-Card/src/index.html"
-       alt="carde" /></a>
+  <img  src="https://github.com/JackDev21/mandev-retos/blob/main/Reto_Basic-Card/card.png"
+       alt="care" /></a>
 </div>
 
 
@@ -121,6 +121,3 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 29/4/2023
