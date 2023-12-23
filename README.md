@@ -66,7 +66,7 @@
 
 <td width="50%" align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackDev2&langs_count=8)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackDev21&langs_count=8)
   
   </td>
 </tr>
