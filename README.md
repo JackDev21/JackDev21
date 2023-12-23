@@ -45,10 +45,9 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JackDev21t&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JackDev21&theme=shadow-orange&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=JackDev21&theme=shadow-orange&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </td>
 
 
