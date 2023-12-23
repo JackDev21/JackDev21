@@ -12,8 +12,8 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg](https://github.com/JackDev21/mandev-retos/blob/main/Reto_Basic-Card/src/index.html)"
+       alt="carde" /></a>
 </div>
 
 
