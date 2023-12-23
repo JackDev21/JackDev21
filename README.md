@@ -31,7 +31,7 @@
 
 - 🌱 Mi enfoque actual es avanzar hacia el desarrollo Full Stack para poder dedicarme plenamente a esta área.
 
-- ☁️ Siento una gran pasión por la computación en el desarrollo web y software.
+- ☁️ Siento una gran pasión por el desarrollo web y software.
 
 - 📫 No dudes en ponerte en contacto conmigo en jose.a.c.lopez@gmail.com.
 <!--Intro end-->
