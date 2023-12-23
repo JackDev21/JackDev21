@@ -60,13 +60,13 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JackDev21&theme=shadow-orange&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.JackDeve21.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
