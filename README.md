@@ -47,14 +47,14 @@
   
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=JackDev21&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=JackDev21&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JackDev21&show_icons=true" />
 </picture>
   <br></br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JackDev21&theme=shadow-orange&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
