@@ -27,7 +27,7 @@
 
 <!--Intro start-->
 
-- 🔭 En este momento, estoy inmerso en el desarrollo con HTML, CSS y JavaScript, además de continuar mi aprendizaje con tecnologías adicionales.
+- 🔭 En este momento, estoy inmerso en el desarrollo con HTML, CSS , JavaScript y React además de continuar mi aprendizaje con tecnologías adicionales.
 
 - 🌱 Mi enfoque actual es avanzar hacia el desarrollo Full Stack para poder dedicarme plenamente a esta área.
 
