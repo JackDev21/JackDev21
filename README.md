@@ -27,7 +27,7 @@
 
 <!--Intro start-->
 
-- 🔭 En este momento, estoy inmerso en el desarrollo con Fullstack Developer | React | Redux | TypeScript | Jest | NodeJS | MongoDB | Express además de continuar mi aprendizaje con tecnologías adicionales.
+- 🔭 En este momento, estoy inmerso en el desarrollo con HTML | CSS | Javascript | React | Redux | TypeScript | Jest | NodeJS | MongoDB | Express además de continuar mi aprendizaje con tecnologías adicionales.
 
 - 🌱 Mi enfoque actual es avanzar hacia el desarrollo Full Stack para poder dedicarme plenamente a esta área.
 
