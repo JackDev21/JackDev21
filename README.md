@@ -76,7 +76,7 @@
 
 </p>        
 <!--- stats (end) -->
-### <h3 align="center">TECNOLOGIAS</h3>
+<h3 align="center">TECNOLOGIAS</h3>
 
 <!-- Frontend -->
 ### <h3 align="center">FRONTEND</h3>
