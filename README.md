@@ -77,39 +77,32 @@
 </p>        
 <!--- stats (end) -->
 
+# Technologies 👨🏻‍💻
 
-<!--h1 without bottom border-->
-<div list-style-type: none, id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
- <ul list-style-type: none, align="center">
-    <summary><h2 style="display: inline-block">FRONTEND</h2></summary>
-  </ul>
-  <p align="center">
+<!-- Frontend -->
+### FRONTEND
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=14" />
   </a>
 </p>
 
-<ul list-style-type: none, align="center">
-    <summary><h2 style="display: inline-block">BACKEND</h2></summary>
-  </ul>
-  <p align="center">
+<!-- Backend -->
+### BACKEND
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb&perline=14" />
   </a>
 </p>
 
-<ul list-style-type: none, align="center">
-    <summary><h2 style="display: inline-block">HERRAMIENTAS</h2></summary>
-  </ul>
-  <p align="center">
+<!-- Herramientas -->
+### HERRAMIENTAS
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,ts,vscode,npm&perline=14" />
   </a>
 </p>
+
 
   
 
