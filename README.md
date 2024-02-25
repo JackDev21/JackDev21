@@ -81,7 +81,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies 👨🏻‍💻</h2></summary>
   </ul>
 </div>
  <ul align="center">
@@ -90,6 +90,15 @@
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=14" />
+  </a>
+</p>
+
+<ul align="center">
+    <summary><h2 style="display: inline-block">BACKEND</h2></summary>
+  </ul>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb&perline=14" />
   </a>
 </p>
 
