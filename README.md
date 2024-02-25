@@ -102,6 +102,15 @@
   </a>
 </p>
 
+<ul align="center">
+    <summary><h2 style="display: inline-block">HERRAMIENTAS</h2></summary>
+  </ul>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,ts,vscode,npm,terminal&perline=14" />
+  </a>
+</p>
+
   
 <!--tech stack icons-->
 <p align="center">
