@@ -84,6 +84,16 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+ <ul align="center">
+    <summary><h2 style="display: inline-block">FRONTEND</h2></summary>
+  </ul>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=14" />
+  </a>
+</p>
+
+  
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
