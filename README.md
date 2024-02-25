@@ -79,12 +79,12 @@
 
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<div list-style-type: none, id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies 👨🏻‍💻</h2></summary>
   </ul>
 </div>
- <ul align="center">
+ <ul list-style-type: none, align="center">
     <summary><h2 style="display: inline-block">FRONTEND</h2></summary>
   </ul>
   <p align="center">
@@ -93,7 +93,7 @@
   </a>
 </p>
 
-<ul align="center">
+<ul list-style-type: none, align="center">
     <summary><h2 style="display: inline-block">BACKEND</h2></summary>
   </ul>
   <p align="center">
@@ -102,7 +102,7 @@
   </a>
 </p>
 
-<ul align="center">
+<ul list-style-type: none, align="center">
     <summary><h2 style="display: inline-block">HERRAMIENTAS</h2></summary>
   </ul>
   <p align="center">
