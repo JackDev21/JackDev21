@@ -76,11 +76,10 @@
 
 </p>        
 <!--- stats (end) -->
-
 # Technologies 👨🏻‍💻
 
 <!-- Frontend -->
-### FRONTEND
+### <h3 align="center">FRONTEND</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=14" />
@@ -88,7 +87,7 @@
 </p>
 
 <!-- Backend -->
-### BACKEND
+### <h3 align="center">BACKEND</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb&perline=14" />
@@ -96,15 +95,13 @@
 </p>
 
 <!-- Herramientas -->
-### HERRAMIENTAS
+### <h3 align="center">HERRAMIENTAS</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,ts,vscode,npm&perline=14" />
   </a>
 </p>
 
-
-  
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
