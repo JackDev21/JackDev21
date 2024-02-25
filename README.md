@@ -107,18 +107,11 @@
   </ul>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,ts,vscode,npm,terminal&perline=14" />
+    <img src="https://skillicons.dev/icons?i=github,git,ts,vscode,npm&perline=14" />
   </a>
 </p>
 
   
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,git,py,mongodb,redux,jest,vscode&perline=14" />
-  </a>
-</p>
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
