@@ -90,7 +90,7 @@
 ### <h3 align="center">BACKEND</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=14" />
   </a>
 </p>
 
