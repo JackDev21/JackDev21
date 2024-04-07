@@ -27,7 +27,7 @@
 
 <!--Intro start-->
 
-- 🔭 En este momento, estoy inmerso en el BootCamp de ISDICODERS.
+- 🔭 Inicié en este mundo de forma autodidacta, y en este momento, estoy inmerso en el BootCamp de ISDICODERS.
 
 - 🌱 Mi enfoque actual es avanzar hacia el desarrollo Full Stack para poder dedicarme plenamente a esta área.
 
