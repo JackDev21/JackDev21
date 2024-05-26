@@ -82,7 +82,7 @@
 ### <h3 align="center">FRONTEND</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=14" />
   </a>
 </p>
 
@@ -90,7 +90,7 @@
 ### <h3 align="center">BACKEND</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=14" />
   </a>
 </p>
 
@@ -98,7 +98,7 @@
 ### <h3 align="center">HERRAMIENTAS</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,npm,mocca,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,npm,notion&perline=14"/>
   </a>
 </p>
 
