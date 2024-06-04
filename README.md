@@ -33,7 +33,7 @@
 
 - ☁️ Siento una gran pasión por el desarrollo web y software.
 
-- 📫 No dudes en ponerte en contacto conmigo en jose.a.c.lopez@gmail.com.
+- 📫 No dudes en ponerte en contacto conmigo.
 <!--Intro end-->
 
 
