@@ -98,8 +98,10 @@
 ### <h3 align="center">HERRAMIENTAS</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mocha,github,git,vscode,npm,notion,markdown,windows&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,npm,notion,markdown,windows&perline=14"/>
   </a>
+  <img src="https://github.com/user-attachments/assets/430c8e2d-4f82-47b2-b0ff-bf4a92b59e9b"/>
+
 </p>
 
 
