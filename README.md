@@ -100,7 +100,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,vscode,npm,notion,markdown,windows&perline=14"/>
   </a>
- <img src="https://github.com/user-attachments/assets/430c8e2d-4f82-47b2-b0ff-bf4a92b59e9b" style="width: 48px; height: auto;">
+ <img src="https://github.com/user-attachments/assets/430c8e2d-4f82-47b2-b0ff-bf4a92b59e9b" style="width: 40px; height: auto;">
 
 </p>
 
