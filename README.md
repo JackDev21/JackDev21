@@ -132,5 +132,3 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/354d9be1-e427-485b-a7d4-9d0bdb9ac6de/deploy-status)](https://app.netlify.com/sites/socialcoders/deploys)
