@@ -132,3 +132,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
+
+## Proyectos Personales
+
+- [FactuClient](https://factuclient.netlify.app/): Sistema de gestión de facturación para clientes.
+- [SocialCoders](https://socialcoders.netlify.app/): Plataforma social para desarrolladores.
