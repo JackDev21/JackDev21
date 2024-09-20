@@ -29,7 +29,7 @@
 
 - 🔭 Inicié en este mundo de forma autodidacta, y en Agosto 2024 finalicé el BootCamp de ISDICODERS.
 
-- 🌱 Mi enfoque actual es avanzar hacia el desarrollo Full Stack para poder dedicarme plenamente a esta área.
+- 🌱 Mi enfoque actual es avanzar hacia el desarrollo Full Stack para poder dedicarme plenamente a esta área, continuamos con typescript, redux y consolidando lo aprendido!
 
 - ☁️ Siento una gran pasión por el desarrollo web y software.
 
