@@ -27,7 +27,7 @@
 
 <!--Intro start-->
 
-- 🔭 Inicié en este mundo de forma autodidacta, y en Agosto 2024 finalicé el BootCamp de ISDICODERS.
+- 🔭 Inicié en este mundo de forma autodidacta, y en Agosto 2024 finalicé el BootCamp de ISDICODERS para consolidar conceptos de programación.
 
 - 🌱 Mi enfoque actual es avanzar hacia el desarrollo Full Stack para poder dedicarme plenamente a esta área, continuamos con typescript, y consolidando lo aprendido!
 
