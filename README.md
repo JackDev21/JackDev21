@@ -139,3 +139,9 @@
 
 - [FactuClient](https://factuclient.netlify.app/): Sistema de gestión de facturación para clientes.
 - [SocialCoders](https://socialcoders.netlify.app/): Plataforma social para desarrolladores.
+
+## Proyectos Igrowkers
+
+- [GoPass](https://github.com/igrowker/i003-gopass-front): Aplicación para la reventa de entradas en eventos deportivos. (Desarrollando en la parte del Frontend)
+- [Reffindr](https://github.com/igrowker/i004-reffindr-front): Plataforma para el alquiler. (Desarrollando en Frontend React) 
+- [Reffindr](https://github.com/igrowker/i004-reffindr-back-nodejs): Plataforma para el alquiler. (Desarrollando en Backend (backend for frontend) node)
