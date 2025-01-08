@@ -31,7 +31,7 @@
 
 - 🌱 Mi enfoque actual es avanzar hacia el desarrollo Full Stack para poder dedicarme plenamente a esta área, continuamos con typescript, y consolidando lo aprendido!
 
-- ☁️ Siento una gran pasión por el desarrollo web y software.
+- ☁️ Todos los días codeando para ir avanzando por el desarrollo web y software, todo suma.
 
 - 📫 No dudes en ponerte en contacto conmigo.
 <!--Intro end-->
@@ -84,7 +84,7 @@
 ### <h3 align="center">FRONTEND</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,nextjs&perline=14" />
   </a>
 </p>
 
@@ -92,7 +92,7 @@
 ### <h3 align="center">BACKEND</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,express,mongodb&perline=14" />
   </a>
 </p>
 
