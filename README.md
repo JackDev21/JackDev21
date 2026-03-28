@@ -1,147 +1,141 @@
+<!-- horizontal divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Hola 👋, soy Jose A. Cantó — Jack</h1>
+<h3 align="center">React · TypeScript · Node.js · Fullstack Developer · IA aplicada a producto</h3>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, me llamo Jose A. Canto, Jack para los amigos</h1></summary>
-  </ul>
-</div>
+<p align="center">
+  <a href="https://josecanto.dev">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/joseaclopez">LinkedIn</a> •
+  <a href="https://rkiveai.com">RkiveAI</a> •
+  <a href="https://studio.rkiveai.com/">Rkive Studio</a>
+</p>
 
-
-<!--- snake -->
 <div align="center">
-  <img  src="https://github.com/JackDev21/mandev-retos/blob/main/Reto_Basic-Card/card.png"
-       alt="care" /></a>
+  <img src="https://github.com/JackDev21/mandev-retos/blob/main/Reto_Basic-Card/card.png" alt="Jack developer card" />
 </div>
 
+<h2 align="center">Confusion is part of Programming</h2>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+---
 
+## Sobre mí
 
-<!--Intro start-->
+- 💻 Desarrollador **Full Stack** enfocado en **React, TypeScript y Node.js**.
+- 🚀 Actualmente construyendo producto en **RkiveAI**, trabajando en **IA, edición multimedia y automatización de contenido**.
+- 🚀 Aplicación de IA orientada a edición y automatización de contenido.
+- 🧠 Construyo producto real combinando frontend, backend y automatización con IA.
+- 📚 Formación autodidacta + Bootcamp **ISDI Coders (2024)**.
+- 🌱 Aprendiendo continuamente sobre arquitectura, media processing e IA aplicada.
 
-- 🔭 Inicié en este mundo de forma autodidacta, y en Agosto 2024 finalicé el BootCamp de ISDICODERS para consolidar conceptos de programación.
+---
 
-- 🌱 Mi enfoque actual es avanzar hacia el desarrollo Full Stack para poder dedicarme plenamente a esta área, continuamos con typescript, y consolidando lo aprendido!
+## GitHub Stats
 
-- ☁️ Todos los días codeando para ir avanzando por el desarrollo web y software, todo suma.
-
-- 📫 No dudes en ponerte en contacto conmigo.
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JackDev21&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JackDev21&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=JackDev21&show_icons=true" />
-</picture>
-  <br></br>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JackDev21&theme=shadow-orange&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</td>
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JackDev21&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JackDev21&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-
-
-
-
-<td width="50%" align="center">
-
-
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackDev21&layout=compact&theme=transparent)
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-
-</p>        
-<!--- stats (end) -->
-<h3 align="center">TECNOLOGIAS</h3>
-
-<!-- Frontend -->
-### <h3 align="center">FRONTEND</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,nextjs,redux&perline=14" />
+  <img src="https://streak-stats.demolab.com?user=JackDev21&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Stack principal
+
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,nextjs,redux&perline=9" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,mongodb,docker&perline=5" />
+</p>
+
+---
+
+## Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,docker,vscode,npm,notion,markdown,windows&perline=8"/>
+</p>
+
+<p align="center">
+  <!-- multimedia -->
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sharp-99CC00?style=for-the-badge&logo=sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- AI tools -->
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-FF6B00?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+## Experiencia destacada
+
+### RkiveAI
+- Desarrollo de producto para **web y app**.
+- Trabajo con **IA**, **edición multimedia** y **automatización de contenido**.
+- Stack: **TypeScript, Next.js, Node.js, React Native / Expo**.
+- Participación en:
+  - Edición de vídeo, overlays y subtítulos
+  - Automatización de publicaciones
+  - Integraciones con APIs externas
+
+---
+
+## Proyectos personales
+
+- 🔹 [FactuClient](https://factuclient.netlify.app/) — Sistema de gestión de facturación.
+- 🔹 [SocialCoders](https://socialcoders.netlify.app/) — Plataforma social para desarrolladores.
+- 🔹 [Portfolio](https://josecanto.dev) — Web personal.
+
+---
+
+## Colaboraciones
+
+### Igrowker
+
+- [GoPass](https://github.com/igrowker/i003-gopass-front)  
+  → App de reventa de entradas (Frontend)
+
+- [Reffindr Front](https://github.com/igrowker/i004-reffindr-front)  
+  → Plataforma de alquiler (React)
+
+- [Reffindr Back](https://github.com/igrowker/i004-reffindr-back-nodejs)  
+  → Backend for frontend con Node.js
+
+---
+
+## Conecta conmigo
+
+<p align="center">
+  <a href="https://josecanto.dev">
+    <img src="https://img.shields.io/badge/Portfolio-josecanto.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/joseaclopez">
+    <img src="https://img.shields.io/badge/LinkedIn-Jose%20A.%20Cant%C3%B3-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/jack_jsp">
+    <img src="https://img.shields.io/badge/Discord-jack__jsp-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
-<!-- Backend -->
-### <h3 align="center">BACKEND</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,express,mongodb&perline=14" />
-  </a>
-</p>
+---
 
-<!-- Herramientas -->
-### <h3 align="center">HERRAMIENTAS</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,docker,vscode,npm,notion,markdown,windows&perline=14"/>
-  </a>
- <img src="https://github.com/user-attachments/assets/430c8e2d-4f82-47b2-b0ff-bf4a92b59e9b" style="width: 40px; height: auto;">
-
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/joseaclopez" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/jack_jsp" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
-
-
-<!--profile visit count-->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+
+[![](https://visitcount.itsvg.in/api?id=JackDev21&icon=3&color=6)](https://visitcount.itsvg.in)
+
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
-
-## Proyectos Personales
-
-- [FactuClient](https://factuclient.netlify.app/): Sistema de gestión de facturación para clientes.
-- [SocialCoders](https://socialcoders.netlify.app/): Plataforma social para desarrolladores.
-
-## Proyectos Igrowkers
-
-- [GoPass](https://github.com/igrowker/i003-gopass-front): Aplicación para la reventa de entradas en eventos deportivos. (Desarrollando en la parte del Frontend)
-- [Reffindr](https://github.com/igrowker/i004-reffindr-front): Plataforma para el alquiler. (Desarrollando en Frontend React) 
-- [Reffindr](https://github.com/igrowker/i004-reffindr-back-nodejs): Plataforma para el alquiler. (Desarrollando en Backend (backend for frontend) node)
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
