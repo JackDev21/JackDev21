@@ -30,19 +30,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://ghstats.dev/api?username=JackDev21&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackDev21&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JackDev21&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## Stack principal
 
 ### Frontend
