@@ -22,8 +22,6 @@
 ## Sobre mí
 
 - 💻 Desarrollador **Full Stack** enfocado en **React, TypeScript y Node.js**.
-- 🚀 Actualmente construyendo producto en **RkiveAI**, trabajando en **IA, edición multimedia y automatización de contenido**.
-- 🚀 Aplicación de IA orientada a edición y automatización de contenido.
 - 🧠 Construyo producto real combinando frontend, backend y automatización con IA.
 - 📚 Formación autodidacta + Bootcamp **ISDI Coders (2024)**.
 - 🌱 Aprendiendo continuamente sobre arquitectura, media processing e IA aplicada.
