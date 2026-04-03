@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://josecanto.dev">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/joseaclopez">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/joseaclopez">LinkedIn</a> 
 </p>
 
 <div align="center">
