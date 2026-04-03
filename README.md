@@ -7,8 +7,6 @@
 <p align="center">
   <a href="https://josecanto.dev">Portfolio</a> •
   <a href="https://www.linkedin.com/in/joseaclopez">LinkedIn</a> •
-  <a href="https://rkiveai.com">RkiveAI</a> •
-  <a href="https://studio.rkiveai.com/">Rkive Studio</a>
 </p>
 
 <div align="center">
